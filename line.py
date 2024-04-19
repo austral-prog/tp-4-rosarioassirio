@@ -1,5 +1,4 @@
 def line():
-    print("TO DO")
     import math
     a = float (input ("Ingrese el coeficiente A: ") )
     b = float (input ("Ingrese el coeficiente B: ") )
@@ -9,7 +8,7 @@ def line():
     y1 = a * x1 + b
     y2 = a * x2 + b
     print (f"""El coeficiente A de su ecuación de la recta es: {a}
-El coeficiente B de su ecuación de la recta es: {b}
+El coficiente B de su ecuación de la recta es: {b}
 El coeficiente X1 de su ecuación de la recta es : {x1}
 El coeficiente X2 de su ecuación de la recta es : {x2}""")
     print (f"""\n Para la siguiente ecuación: 
