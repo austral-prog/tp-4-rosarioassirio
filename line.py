@@ -20,3 +20,4 @@ El coeficiente X2 de su ecuación de la recta es : {x2}""")
     d= math.sqrt ((x2 - x1)**2 + (y2 - y1)**2)
 
     print(f"\n La distancia entre ellos es: {d}")
+line()
